@@ -1,2 +1,14 @@
-*
-!.gitignore
+
+/.env
+/.env.*
+!/ .env.example
+/vendor/
+/node_modules/
+/storage/*.key
+/vendor/
+/node_modules/
+/.env
+/.env.*
+!.env.example
+/database/*.sqlite
+/storage/*.key
